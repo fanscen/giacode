@@ -7,8 +7,7 @@ import (
 	"log"
 	"os"
 	"time"
-
-	"github.com/goinaction/code/chapter7/patterns/runner"
+	"~/Github/giacode/src/chapter7/patterns/runner"
 )
 
 // timeout is the number of second the program has to finish.
