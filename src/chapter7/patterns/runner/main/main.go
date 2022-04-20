@@ -4,10 +4,10 @@
 package main
 
 import (
+	"chapter7/patterns/runner"
 	"log"
 	"os"
 	"time"
-	"~/Github/giacode/src/chapter7/patterns/runner"
 )
 
 // timeout is the number of second the program has to finish.

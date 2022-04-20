@@ -12,7 +12,7 @@ import (
 
 const (
 	numberGoroutines = 4  // Number of goroutines to use.
-	taskLoad         = 10 // Amount of work to process.
+	taskLoad         = 20 // Amount of work to process.
 )
 
 // wg is used to wait for the program to finish.
